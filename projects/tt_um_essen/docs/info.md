@@ -202,6 +202,7 @@ If the user sends a gapless, uninterupted stream of input data, and re-uses the 
 #### Simlpe example
 
 In this example the $W$ MAC weight matrix is being configured and the $I$ data is being streamed in, following which, the $R$ result starts being sent out. 
+
 $$
 R = I \times W = 
 \begin{pmatrix} 
