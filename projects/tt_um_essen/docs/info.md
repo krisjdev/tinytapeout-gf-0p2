@@ -15,6 +15,10 @@ both usage and diagnose design issues in silicon.
 
 # MAC 
 
+$$
+\rule{500em}{500em}
+$$
+
 This MAC accelerator operates at up to 50MHz and is capable of reaching up to 100MAC/s or 200MIOP/s.
 
 ## Background 
